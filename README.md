@@ -1,0 +1,2 @@
+# CosmicClan
+Fork SimpleClans
